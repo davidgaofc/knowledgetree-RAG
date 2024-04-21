@@ -1,0 +1,28 @@
+├── Calendar_date
+│     └── Calendar
+│         ├── Calendar_date
+│         ├── Cambodia
+│         └── Roman_calendar
+├── California
+│    ├── Cactus_wren
+│    │    ├── Neoschoengastia_americana
+│    │    ├── Walter_Pierce_Bryant
+│    │    └── Wikt:year-over-year
+│    └── Calexico–Mexicali
+│         ├── Calexico,_California
+│         ├── San_Diego–Tijuana
+│         └── Santa_Isabel,_Baja_California
+├── Pre-Columbian_era
+│    └── Cahokia
+│         ├── File:Cahokia_winter_solstice_sunrise_over_Fox_Mound_HRoe_2017sm.jpg
+│         ├── File:Woodhenge_Cahokia_3998.jpg
+│         └── Spiro_plates
+└── Psychology
+    ├── Cai_Yuanpei
+    │     ├── China_League_for_Civil_Rights
+    │     ├── Civic_education
+    │     ├── File:Cai_Yuanpei_with_Students_from_Peking_University_styding_abroad.jpg
+    │     └── File:Shaoxing_Cai_Yuanpei_Guju_2017.12.09_14-23-22.jpg
+    └── Carl_Jung
+        ├── Carl_Gustav_Carus
+        └── Carl_Rogers
